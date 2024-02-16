@@ -1,6 +1,6 @@
 # Class Notes
 
-Here goes my notes for the 'Diplomado de Aplicaciones móviles'
+Here goes my notes for the 'Diplomado de Aplicaciones móviles IOS'
 
 ## First Modulo
 - MacOS
